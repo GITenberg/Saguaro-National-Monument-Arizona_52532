@@ -1,0 +1,31 @@
+_repo: Saguaro-National-Monument-Arizona_52532
+_version: 0.0.1
+creator:
+  authors:
+  - agent_name: Dodge, Natt N. (Natt Noyes)
+    alias: Dodge, Natt Noyes
+    birthdate: 1900
+    deathdate: 1982
+    gutenberg_agent_id: '47917'
+    url: http://www.gutenberg.org/2009/agents/47917
+  - agent_name: Shelton, Napier
+    birthdate: 1931
+    gutenberg_agent_id: '46912'
+    url: http://www.gutenberg.org/2009/agents/46912
+description: '"Based on an earlier work by Natt Dodge."'
+gutenberg_issued: '2016-07-09'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '52532'
+  lccn: '72602934'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'QH'
+- !lcsh 'Natural history -- Arizona -- Saguaro National Park'
+- !lcsh 'Desert ecology -- Arizona -- Saguaro National Park'
+- GITenberg
+title: Saguaro National Monument, Arizona
+url: http://www.gutenberg.org/ebooks/52532
